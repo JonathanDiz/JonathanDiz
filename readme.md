@@ -1,47 +1,27 @@
-# Jonathan Diaz Olivares - Desarrollador Fullstack
+# Hi there, I'm Jonathan Diz! 👋
 
-## Información de Contacto
-- **Dirección:** Quilicura, Santiago de Chile
-- **Teléfono:** +56964252470
-- **Correo Electrónico:** jonathanfullstack@gmail.com
-- **LinkedIn:** [linkedin.com/in/jonathan-diaz-olivares-full-stack-developer-jr](https://www.linkedin.com/in/jonathan-diaz-olivares-full-stack-developer-jr)
-- **GitHub:** [github.com/JonathanDiz](https://github.com/JonathanDiz)
+## About Me
+- 🌱 I’m currently learning advanced Python programming.
+- 🔭 I’m working on various open-source projects and contributing to the developer community.
+- 👯 I’m looking to collaborate on innovative tech projects.
+- 💬 Ask me about Python, JavaScript, and web development.
+- 📫 How to reach me: [jonathandiz@example.com](mailto:jonathandiz@example.com)
+- ⚡ Fun fact: I love hiking and exploring the outdoors.
 
-## Extracto
-Desarrollador Fullstack apasionado por la tecnología y la programación. Experimentado en una variedad de tecnologías como JS, Angular, Vue, Typescript, Python y Java. Certificado en Google Cloud Computing y Elements of AI. Motivado para contribuir con soluciones tecnológicas innovadoras y aprender en un entorno desafiante. Abierto a emocionantes oportunidades en el campo de la tecnología.
+## My Skills
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Flask, React, Node.js
+- **Tools:** Git, Docker, Kubernetes, VS Code
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
-## Experiencia
-### NextStep
-**Full Stack Developer | Junio 2023 - Agosto 2023**
-Chile
-- Desarrollo de una landing page utilizando la tecnología Astro para mejorar la experiencia del usuario.
+## Projects
+- [Project A](https://github.com/JonathanDiz/project-a): A brief description of Project A.
+- [Project B](https://github.com/JonathanDiz/project-b): A brief description of Project B.
+- [Project C](https://github.com/JonathanDiz/project-c): A brief description of Project C.
 
-### Neurona Corp
-**Full Stack Developer | Abril 2023 - Junio 2023**
-Gran Santiago, Región Metropolitana de Santiago, Chile
-- Lideré el desarrollo de un chatbot para WhatsApp, utilizando el modelo de IA GPT para generar respuestas inteligentes.
+## GitHub Stats
+![JonathanDiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanDiz&show_icons=true&theme=radical)
 
-## Educación
-- **LarnU (SUP 22' & PV 22-1)**
-  - Full Stack Developer, Programación Informática, Aplicaciones Específicas | Septiembre 2022 - Enero 2023
-
-- **Duoc UC**
-  - Animación Digital, Diseño Multimedia | 2011 - 2013
-
-## Certificaciones
-- Google Certified Cloud Computing
-- Elements of AI
-
-## Aptitudes
-- Amplia experiencia en el desarrollo con tecnologías como JS, Angular, Vue, Typescript, Python y Java.
-- Conocimiento sólido en bases de datos MongoDB.
-- Familiarizado con el uso de GPT-3 para generación de contenido.
-- Capacidad para trabajar en el desarrollo de aplicaciones utilizando el stack MERN.
-
-## Contacto
-- **Teléfono:** +56964252470
-- **Correo Electrónico:** jonathanfullstack@gmail.com
-- **LinkedIn:** [linkedin.com/in/jonathan-diaz-olivares-full-stack-developer-jr](https://www.linkedin.com/in/jonathan-diaz-olivares-full-stack-developer-jr)
-- **GitHub:** [github.com/JonathanDiz](https://github.com/JonathanDiz)
-
-¡No dudes en contactarme para discutir oportunidades emocionantes en el campo de la tecnología!
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonathandiz/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/jonathandiz)
